@@ -1,0 +1,20 @@
+C:\Users\rc131187\AppData\Local\Temporary Projects\textBoxControl\bin\Debug\textBoxControl.exe.config
+C:\Users\rc131187\AppData\Local\Temporary Projects\textBoxControl\bin\Debug\textBoxControl.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\textBoxControl\bin\Debug\textBoxControl.pdb
+C:\Users\rc131187\AppData\Local\Temporary Projects\textBoxControl\bin\Debug\textBoxControl.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\textBoxControl\obj\Debug\textBoxControl.Form1.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\textBoxControl\obj\Debug\textBoxControl.Resources.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\textBoxControl\obj\Debug\textBoxControl.vbproj.GenerateResource.Cache
+C:\Users\rc131187\AppData\Local\Temporary Projects\textBoxControl\obj\Debug\textBoxControl.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\textBoxControl\obj\Debug\textBoxControl.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\textBoxControl\obj\Debug\textBoxControl.pdb
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\textBoxControl\textBoxControl\bin\Debug\textBoxControl.exe.config
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\textBoxControl\textBoxControl\obj\Debug\textBoxControl.exe
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\textBoxControl\textBoxControl\obj\Debug\textBoxControl.xml
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\textBoxControl\textBoxControl\obj\Debug\textBoxControl.pdb
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\textBoxControl\textBoxControl\bin\Debug\textBoxControl.exe
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\textBoxControl\textBoxControl\bin\Debug\textBoxControl.pdb
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\textBoxControl\textBoxControl\bin\Debug\textBoxControl.xml
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\textBoxControl\textBoxControl\obj\Debug\textBoxControl.Form1.resources
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\textBoxControl\textBoxControl\obj\Debug\textBoxControl.Resources.resources
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\textBoxControl\textBoxControl\obj\Debug\textBoxControl.vbproj.GenerateResource.Cache

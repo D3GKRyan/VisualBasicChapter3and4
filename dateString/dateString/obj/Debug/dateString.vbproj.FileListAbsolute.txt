@@ -1,0 +1,10 @@
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\dateString\dateString\bin\Debug\dateString.exe.config
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\dateString\dateString\bin\Debug\dateString.exe
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\dateString\dateString\bin\Debug\dateString.pdb
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\dateString\dateString\bin\Debug\dateString.xml
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\dateString\dateString\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\dateString\dateString\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\dateString\dateString\obj\Debug\dateString.vbproj.GenerateResource.Cache
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\dateString\dateString\obj\Debug\dateString.exe
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\dateString\dateString\obj\Debug\dateString.xml
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\dateString\dateString\obj\Debug\dateString.pdb
