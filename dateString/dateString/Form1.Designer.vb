@@ -114,7 +114,7 @@ Partial Class Form1
         Me.btnShowDate.Name = "btnShowDate"
         Me.btnShowDate.Size = New System.Drawing.Size(75, 23)
         Me.btnShowDate.TabIndex = 9
-        Me.btnShowDate.Text = "Show Date"
+        Me.btnShowDate.Text = "Show &Date"
         Me.btnShowDate.UseVisualStyleBackColor = True
         '
         'btnClear
@@ -123,7 +123,7 @@ Partial Class Form1
         Me.btnClear.Name = "btnClear"
         Me.btnClear.Size = New System.Drawing.Size(75, 23)
         Me.btnClear.TabIndex = 10
-        Me.btnClear.Text = "Clear"
+        Me.btnClear.Text = "Clea&r"
         Me.btnClear.UseVisualStyleBackColor = True
         '
         'btnExit
@@ -132,7 +132,7 @@ Partial Class Form1
         Me.btnExit.Name = "btnExit"
         Me.btnExit.Size = New System.Drawing.Size(75, 23)
         Me.btnExit.TabIndex = 11
-        Me.btnExit.Text = "Exit"
+        Me.btnExit.Text = "E&xit"
         Me.btnExit.UseVisualStyleBackColor = True
         '
         'Form1
