@@ -1,0 +1,14 @@
+C:\Users\rc131187\AppData\Local\Temporary Projects\variableDemo\bin\Debug\variableDemo.exe.config
+C:\Users\rc131187\AppData\Local\Temporary Projects\variableDemo\bin\Debug\variableDemo.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\variableDemo\bin\Debug\variableDemo.pdb
+C:\Users\rc131187\AppData\Local\Temporary Projects\variableDemo\bin\Debug\variableDemo.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\variableDemo\obj\Debug\variableDemo.Form1.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\variableDemo\obj\Debug\variableDemo.Resources.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\variableDemo\obj\Debug\variableDemo.vbproj.GenerateResource.Cache
+C:\Users\rc131187\AppData\Local\Temporary Projects\variableDemo\obj\Debug\variableDemo.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\variableDemo\obj\Debug\variableDemo.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\variableDemo\obj\Debug\variableDemo.pdb
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\variableDemo\variableDemo\bin\Debug\variableDemo.exe.config
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\variableDemo\variableDemo\obj\Debug\variableDemo.exe
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\variableDemo\variableDemo\obj\Debug\variableDemo.xml
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\variableDemo\variableDemo\obj\Debug\variableDemo.pdb
