@@ -1,0 +1,14 @@
+C:\Users\rc131187\AppData\Local\Temporary Projects\formatDemo\bin\Debug\formatDemo.exe.config
+C:\Users\rc131187\AppData\Local\Temporary Projects\formatDemo\obj\Debug\formatDemo.Form1.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\formatDemo\obj\Debug\formatDemo.Resources.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\formatDemo\obj\Debug\formatDemo.vbproj.GenerateResource.Cache
+C:\Users\rc131187\AppData\Local\Temporary Projects\formatDemo\bin\Debug\formatDemo.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\formatDemo\bin\Debug\formatDemo.pdb
+C:\Users\rc131187\AppData\Local\Temporary Projects\formatDemo\bin\Debug\formatDemo.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\formatDemo\obj\Debug\formatDemo.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\formatDemo\obj\Debug\formatDemo.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\formatDemo\obj\Debug\formatDemo.pdb
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\formatDemo\formatDemo\bin\Debug\formatDemo.exe.config
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\formatDemo\formatDemo\obj\Debug\formatDemo.exe
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\formatDemo\formatDemo\obj\Debug\formatDemo.xml
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\formatDemo\formatDemo\obj\Debug\formatDemo.pdb
