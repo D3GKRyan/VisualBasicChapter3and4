@@ -1,0 +1,14 @@
+C:\Users\rc131187\AppData\Local\Temporary Projects\highlanderHotel\bin\Debug\highlanderHotel.exe.config
+C:\Users\rc131187\AppData\Local\Temporary Projects\highlanderHotel\bin\Debug\highlanderHotel.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\highlanderHotel\bin\Debug\highlanderHotel.pdb
+C:\Users\rc131187\AppData\Local\Temporary Projects\highlanderHotel\bin\Debug\highlanderHotel.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\highlanderHotel\obj\Debug\highlanderHotel.Form1.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\highlanderHotel\obj\Debug\highlanderHotel.Resources.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\highlanderHotel\obj\Debug\highlanderHotel.vbproj.GenerateResource.Cache
+C:\Users\rc131187\AppData\Local\Temporary Projects\highlanderHotel\obj\Debug\highlanderHotel.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\highlanderHotel\obj\Debug\highlanderHotel.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\highlanderHotel\obj\Debug\highlanderHotel.pdb
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\highlanderHotel\highlanderHotel\bin\Debug\highlanderHotel.exe.config
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\highlanderHotel\highlanderHotel\obj\Debug\highlanderHotel.exe
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\highlanderHotel\highlanderHotel\obj\Debug\highlanderHotel.xml
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\highlanderHotel\highlanderHotel\obj\Debug\highlanderHotel.pdb
