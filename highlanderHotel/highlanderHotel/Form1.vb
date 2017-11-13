@@ -29,6 +29,10 @@
                 CDec(txtMiscellaneous.Text)
             lblAdditionalCharges.Text = decAddCharges.ToString("c")
 
+            'Calculate and display the subtotal
+            decSubtotal = decRoomCharges + decAddCharges
+            lblSubtotal.Text = decSubtotal.ToString("c")
+
             ' Calculate and display the tax.
             decTax = decSubtotal * decTAX_RATE
             lblTax.Text = decTax.ToString("c")
@@ -81,4 +85,18 @@
 
 
     End Sub
+
+    Private Sub btnExit_Click(sender As Object, e As EventArgs) Handles btnExit.Click
+        Me.Close()
+
+    End Sub
+
+    Private Sub lblSubtotal_Click(sender As Object, e As EventArgs) Handles lblSubtotal.Click
+
+    End Sub
+
+    Private Sub lblTax_Click(sender As Object, e As EventArgs) Handles lblTax.Click
+
+    End Sub
+
 End Class
