@@ -1,0 +1,14 @@
+C:\Users\rc131187\AppData\Local\Temporary Projects\celsiusFarhenheit\bin\Debug\celsiusFarhenheit.exe.config
+C:\Users\rc131187\AppData\Local\Temporary Projects\celsiusFarhenheit\bin\Debug\celsiusFarhenheit.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\celsiusFarhenheit\bin\Debug\celsiusFarhenheit.pdb
+C:\Users\rc131187\AppData\Local\Temporary Projects\celsiusFarhenheit\bin\Debug\celsiusFarhenheit.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\celsiusFarhenheit\obj\Debug\celsiusFarhenheit.Form1.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\celsiusFarhenheit\obj\Debug\celsiusFarhenheit.Resources.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\celsiusFarhenheit\obj\Debug\celsiusFarhenheit.vbproj.GenerateResource.Cache
+C:\Users\rc131187\AppData\Local\Temporary Projects\celsiusFarhenheit\obj\Debug\celsiusFarhenheit.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\celsiusFarhenheit\obj\Debug\celsiusFarhenheit.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\celsiusFarhenheit\obj\Debug\celsiusFarhenheit.pdb
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\celsiusFarhenheit\celsiusFarhenheit\bin\Debug\celsiusFarhenheit.exe.config
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\celsiusFarhenheit\celsiusFarhenheit\obj\Debug\celsiusFarhenheit.exe
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\celsiusFarhenheit\celsiusFarhenheit\obj\Debug\celsiusFarhenheit.xml
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\celsiusFarhenheit\celsiusFarhenheit\obj\Debug\celsiusFarhenheit.pdb

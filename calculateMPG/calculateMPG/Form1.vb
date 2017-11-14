@@ -7,5 +7,4 @@
 
         lblMPG.Text = decMilesPerGallon
     End Sub
-
 End Class

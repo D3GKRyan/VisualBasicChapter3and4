@@ -1,0 +1,14 @@
+C:\Users\rc131187\AppData\Local\Temporary Projects\stadiumSeating\bin\Debug\stadiumSeating.exe.config
+C:\Users\rc131187\AppData\Local\Temporary Projects\stadiumSeating\bin\Debug\stadiumSeating.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\stadiumSeating\bin\Debug\stadiumSeating.pdb
+C:\Users\rc131187\AppData\Local\Temporary Projects\stadiumSeating\bin\Debug\stadiumSeating.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\stadiumSeating\obj\Debug\stadiumSeating.Resources.resources
+C:\Users\rc131187\AppData\Local\Temporary Projects\stadiumSeating\obj\Debug\stadiumSeating.vbproj.GenerateResource.Cache
+C:\Users\rc131187\AppData\Local\Temporary Projects\stadiumSeating\obj\Debug\stadiumSeating.exe
+C:\Users\rc131187\AppData\Local\Temporary Projects\stadiumSeating\obj\Debug\stadiumSeating.xml
+C:\Users\rc131187\AppData\Local\Temporary Projects\stadiumSeating\obj\Debug\stadiumSeating.pdb
+C:\Users\rc131187\AppData\Local\Temporary Projects\stadiumSeating\obj\Debug\stadiumSeating.na.resources
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\stadiumSeating\stadiumSeating\bin\Debug\stadiumSeating.exe.config
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\stadiumSeating\stadiumSeating\obj\Debug\stadiumSeating.exe
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\stadiumSeating\stadiumSeating\obj\Debug\stadiumSeating.xml
+C:\Users\rc131187\Desktop\VB\VBChapter3and4\VisualBasicChapter3and4\stadiumSeating\stadiumSeating\obj\Debug\stadiumSeating.pdb
